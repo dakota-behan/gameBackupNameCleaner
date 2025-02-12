@@ -1,5 +1,7 @@
 this program is extremely basic, all it does is rename files/folders to clean them up. i did add some basic checks to see if there are numbers in the parentheses so multi disc games game each game still labeled seperately.
 
+This program requires nodeJs.
+
 when it starts you put in a file path, if you copy the path from the windows file explorer it will error out due to the back slashes ( \ ). to fix it just swap them with forward slashes ( / )
 
 if you choose to modify only files it will filter and modify only files that end in these extentions:
