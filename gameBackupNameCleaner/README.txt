@@ -1,6 +1,6 @@
 This program is extremely basic, all it does is rename files/folders to clean them up. I did add some basic checks to see if there are numbers in the parentheses so multi disc games game each game still labeled seperately.
 
-When it starts you put in a file path, if you copy the path from the windows file explorer it will error out due to the back slashes ( \ ). To fix it just swap them with forward slashes ( / )
+This requires nodeJs.
 
 If you choose to modify fileTypesAllowed.txt it will change the file types that the program is allowed to modify. These are the default file types allowed:
   .iso
