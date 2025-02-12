@@ -16,9 +16,9 @@ here are a few examples of what the name modifier will do
 
   Battlefield 4 (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,Cs) (Disc 1).iso  >>>  Battlefield 4 (Disc 1).iso
   
-  *Borderlands 2 (World) (En,Ja,Fr,De,Es,It).iso  >>>  Borderlands 2.iso
-  *Bulletstorm (USA, Europe) (En,Fr,De,Es,It,Pl,Ru).iso  >>>  Bulletstorm.iso
-  Call of Duty - Black Ops III (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).iso  >>>  Call of Duty - Black Ops III.iso
+    Borderlands 2 (World) (En,Ja,Fr,De,Es,It).iso  >>>  Borderlands 2.iso
+    Bulletstorm (USA, Europe) (En,Fr,De,Es,It,Pl,Ru).iso  >>>  Bulletstorm.iso
+    Call of Duty - Black Ops III (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).iso  >>>  Call of Duty - Black Ops III.iso
   Dead Rising (USA).iso  >>>  Dead Rising.iso
   Dead Space 3 (USA) (En,Fr,Es) (Disc 1).iso  >>>  Dead Space 3 (Disc 1).iso
   Dead Space 3 (USA) (En,Fr,Es) (Disc 2).iso  >>>  Dead Space 3 (Disc 2).iso
