@@ -71,6 +71,7 @@ const modifyFiles = (target, answer) => {
 
 if (testingMode === false) {
   rl.question(`what is the file dir?\n`, (dir) => {
+    dir = String.raw({ raw: [dir] }).replaceAll("\\", "/");
     rl.question(`\nare we modifying file names only? y or n\n`, (answer) => {
       answer = answer.toLowerCase();
 
