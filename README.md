@@ -3,14 +3,15 @@ This program is extremely basic, all it does is rename files/folders to clean th
 This requires nodeJs.
 
 If you choose to modify fileTypesAllowed.txt it will change the file types that the program is allowed to modify. These are the default file types allowed:
-.iso
-.bin
-.bin.enc
-.cue
-.chd
-.img
-.mdf
-.mds
+
+    .iso
+    .bin
+    .bin.enc
+    .cue
+    .chd
+    .img
+    .mdf
+    .mds
 
 here are a few examples of what the name modifier will do
 
